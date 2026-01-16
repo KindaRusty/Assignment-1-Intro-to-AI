@@ -10,7 +10,7 @@ The assignment focuses on researching a specific topic within AI ethics and resp
 - **Student Name**: Nguyễn Thành Kiên
 - **Student ID**: 105507742  
 - **Tutor**: Ms.My Nguyễn 
-- **Due Date**: End of week 6
+- **Due Date**: Sunday, 16/1/2026 11:59PM (End of week 6)
 
 ## Research Topic
 - **Chosen Topic**: `[]`.
