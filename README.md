@@ -34,12 +34,12 @@ Additional peer‑reviewed articles, books, and reliable online resources are us
 - **Week 3–4**: Conduct systematic research, write Findings draft (1,800–2,500 words). 
 - **Week 5**: Consolidate report, write Conclusion, final editing (total 2,500–3,000 words).
 
-Progress is tracked via GitHub Wiki or cloud storage, as required by the assignment.
+Progress will be tracked via GitHub Wiki.
 
 ## Submission Requirements
 - Individual work  
-- Report length: **2,500–3,000 words** (excluding cover page and references) ,
-- File format: **PDF or Word**, file name = **StudentID** (e.g., `1234567.pdf`).
-- Submission via **Canvas**, with standard late penalties applied.
+- Report length approximately: **2,500–3,000 words** (excluding cover page and references) ,
+- File format: **PDF**, file name = **105507742**.
+- Submission via **Canvas**.
 ## Academic Integrity
 All sources are properly cited using **APA style**, including any assistance from AI tools, which are acknowledged in the report’s Acknowledgements/Resources section.
