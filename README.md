@@ -1,4 +1,4 @@
-# COS30019 – Assignment 1: AI Ethics & Responsible AI
+# COS30018 – Assignment 1: AI Ethics & Responsible AI
 
 ## Overview
 This repository contains my work for **COS30019 – Introduction to AI**, Assignment 1: **Research into AI Ethics & Responsible AI**.  
